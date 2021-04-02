@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1617021429 source:c:\users\user\desktop\scuola alessio\ricerca binaria\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	"funzioni.hpp"
+
+1617017967 c:\users\user\desktop\scuola alessio\ricerca binaria\funzioni.hpp
+
+1617021429 source:c:\users\user\desktop\scuola alessio\ricerca binaria\funzioni.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	"funzioni.hpp"
+
