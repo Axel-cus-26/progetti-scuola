@@ -17,3 +17,21 @@
 	<fstream>
 	"funzioni.hpp"
 
+1617021429 source:c:\users\user\desktop\scuola alessio\gitcose\progetti-scuola\ricercabinaria\funzioni.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<fstream>
+	"funzioni.hpp"
+
+1617017967 c:\users\user\desktop\scuola alessio\gitcose\progetti-scuola\ricercabinaria\funzioni.hpp
+
+1617021429 source:c:\users\user\desktop\scuola alessio\gitcose\progetti-scuola\ricercabinaria\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<stdio.h>
+	"funzioni.hpp"
+
