@@ -18,12 +18,6 @@ using namespace std;
     * - leggere un file binario
     * - genera un file binario
     * - dal file possono essere eliminati, modificati o cercati record specifici
-    *
-    *\section UML DIAGRAMMA UML DEL PROGETTO
-    * <IMG SRC = "uml.jpg" ALT = "Diagramma UML del progetto"/>
-    *
-    *\section CLASS DIAGRAMMA DELLE CLASSI PRESENTI NEL PROGETTO
-    *<IMG SRC = "classi.jpg" ALT = "Diagramma delle classi del progetto"/>
     */
 
 
