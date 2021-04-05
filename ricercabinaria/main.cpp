@@ -10,7 +10,7 @@ using namespace std;
 /*! \mainpage <CENTER> La Ricerca per Codice </CENTER>
     * \author <B> Alessio Cusenza</B>
     * \version <B> V1.0 </B>
-    * \date <B> Consegna progetto:   Mi hanno costretto, aiuto</B>
+    * \date <B> Consegna progetto:   06/04/2021</B>
     *
     * \section caratteristiche CARATTERISTICHE DEL PROGETTO
     *
